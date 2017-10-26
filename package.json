@@ -1,6 +1,6 @@
 {
   "name": "aor-graphql-client-graphcool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Graphcool GraphQL client for admin-on-rest",
   "main": "./lib/index.js",
   "repository": "https://github.com/marmelab/aor-graphql-client-graphcool.git",
